@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="DAL.cs" />
     <Compile Include="Servisim.cs">
       <SubType>Component</SubType>
     </Compile>
